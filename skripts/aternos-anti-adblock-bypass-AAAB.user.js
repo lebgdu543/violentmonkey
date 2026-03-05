@@ -7,6 +7,7 @@
 // @version      2.0
 // @description  Bypass Aternos anti-adblock detection with automatic button clicking. Certified AAA!
 // @author       Zwaygo
+// @icon         https://github.com/lebgdu543/violentmonkey/blob/main/skripts/aternos-aaab.png?raw=true
 // @match        *://*.aternos.org/*
 // @run-at       document-start
 // @grant        none
