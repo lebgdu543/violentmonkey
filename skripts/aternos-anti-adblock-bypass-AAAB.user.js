@@ -2,7 +2,8 @@
 // @name         Aternos Anti-Adblock Bypass (2026)
 // @namespace    https://github.com/lebgdu543
 // @source       https://github.com/lebgdu543/violentmonkey/skrips/aternos-anti-adblock-bypass-AAAB.user.js
-// @copyright    MIT
+// @copyright    2026, zwaygo (https://github.com/lebgdu543)
+// @license      MIT
 // @version      2.0
 // @description  Bypass Aternos anti-adblock detection with automatic button clicking. Certified AAA!
 // @author       Zwaygo
