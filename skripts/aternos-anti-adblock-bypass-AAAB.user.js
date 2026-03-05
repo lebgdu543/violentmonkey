@@ -1,16 +1,19 @@
 // ==UserScript==
-// @name         Aternos Anti-Adblock Bypass (2026)
-// @namespace    https://github.com/lebgdu543
-// @source       https://github.com/lebgdu543/violentmonkey/skrips/aternos-anti-adblock-bypass-AAAB.user.js
-// @copyright    2026, zwaygo (https://github.com/lebgdu543)
-// @license      MIT
-// @version      2.0
-// @description  Bypass Aternos anti-adblock detection with automatic button clicking. Certified AAA!
-// @author       Zwaygo
-// @icon         https://github.com/lebgdu543/violentmonkey/blob/main/skripts/aternos-aaab.png?raw=true
-// @match        *://*.aternos.org/*
-// @run-at       document-start
-// @grant        none
+// @name             Aternos Anti-Adblock Bypass (2026)
+// @namespace        https://github.com/lebgdu543
+// @source           https://github.com/lebgdu543/violentmonkey/skrips/aternos-anti-adblock-bypass-AAAB.user.js
+// @copyright        2026, zwaygo (https://github.com/lebgdu543)
+// @license          MIT
+// @version          2.0
+// @description      START BUTTON DON'T WORK! Bypass Aternos anti-adblock detection with automatic button clicking. Certified AAA!
+// @author           Zwaygo
+// @icon             https://github.com/lebgdu543/violentmonkey/blob/main/skripts/aternos-aaab.png?raw=true
+// @match            *://*.aternos.org/*
+// @run-at           document-start
+// @grant            none
+// @compatible       firefox
+// @compatible       chrome
+// @contributionURL  todo
 // ==/UserScript==
 
 (function () {
