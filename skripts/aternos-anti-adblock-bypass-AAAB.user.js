@@ -13,7 +13,7 @@
 // @grant            none
 // @compatible       firefox
 // @compatible       chrome
-// @contributionURL  todo
+// @antifeature type START BUTTON DON'T WORK!
 // ==/UserScript==
 
 (function () {
