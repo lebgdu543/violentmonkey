@@ -16,6 +16,8 @@
 // @updateURL https://update.greasyfork.org/scripts/568711/Aternos%20Adblock%20Auto%E2%80%91Skip%20%28AAAS%29.meta.js
 // ==/UserScript==
 
+/* jshint esversion: 6 */
+
 (function() {
     'use strict';
 
